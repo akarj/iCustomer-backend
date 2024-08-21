@@ -36,6 +36,9 @@ MONGO_URI={{MongoDB Atlas URI}}
 JWT_SECRET={{Your JWT Secret}}
 ```
 
+- For generating GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET, please visit [medium](https://medium.com/@tony.infisical/guide-to-using-oauth-2-0-to-access-google-apis-dead94d6866d)
+- For generating MONGO_URI, please visit [this article](https://www.mongodb.com/docs/drivers/node/current/quick-start/create-a-connection-string/)
+
 ### 4. Run the Application
 
 To start the backend server, use the following command:
@@ -49,3 +52,7 @@ npm run dev
 ### 5. Access the Application
 
 Once the server is running, you can access the application at [http://localhost:3000](http://localhost:3000) (or the respective `PORT` you've set).
+
+## Live Application URL
+
+Visit [this](https://i-customer-backend.vercel.app/) for live application API access.
