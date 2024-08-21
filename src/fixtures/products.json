@@ -1,0 +1,1929 @@
+[
+    {
+        "id": 1,
+        "title": "Behavioral Data Record 1",
+        "data_category": "Behavioral",
+        "record_count": 18118,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Demographic Data Record 2",
+        "data_category": "Demographic",
+        "record_count": 5526,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Demographic Data Record 3",
+        "data_category": "Demographic",
+        "record_count": 19549,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Geographic Data Record 4",
+        "data_category": "Geographic",
+        "record_count": 6337,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Financial Data Record 5",
+        "data_category": "Financial",
+        "record_count": 13697,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Behavioral Data Record 6",
+        "data_category": "Behavioral",
+        "record_count": 1596,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Health Data Record 7",
+        "data_category": "Health",
+        "record_count": 6613,
+        "fields": [
+            "Medical conditions",
+            "Medications",
+            "Allergies",
+            "Physical activity",
+            "Dietary preferences",
+            "Health goals",
+            "Sleep patterns"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Educational Data Record 8",
+        "data_category": "Educational",
+        "record_count": 7935,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Financial Data Record 9",
+        "data_category": "Financial",
+        "record_count": 19563,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Demographic Data Record 10",
+        "data_category": "Demographic",
+        "record_count": 1744,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Geographic Data Record 11",
+        "data_category": "Geographic",
+        "record_count": 8990,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Technographic Data Record 12",
+        "data_category": "Technographic",
+        "record_count": 12995,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Firmographic Data Record 13",
+        "data_category": "Firmographic",
+        "record_count": 19304,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Educational Data Record 14",
+        "data_category": "Educational",
+        "record_count": 11304,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Technographic Data Record 15",
+        "data_category": "Technographic",
+        "record_count": 18336,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Technographic Data Record 16",
+        "data_category": "Technographic",
+        "record_count": 4917,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Technographic Data Record 17",
+        "data_category": "Technographic",
+        "record_count": 18786,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Psychographic Data Record 18",
+        "data_category": "Psychographic",
+        "record_count": 17423,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Health Data Record 19",
+        "data_category": "Health",
+        "record_count": 4941,
+        "fields": [
+            "Medical conditions",
+            "Medications",
+            "Allergies",
+            "Physical activity",
+            "Dietary preferences",
+            "Health goals",
+            "Sleep patterns"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Behavioral Data Record 20",
+        "data_category": "Behavioral",
+        "record_count": 7513,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Geographic Data Record 21",
+        "data_category": "Geographic",
+        "record_count": 15931,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Geographic Data Record 22",
+        "data_category": "Geographic",
+        "record_count": 19154,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Behavioral Data Record 23",
+        "data_category": "Behavioral",
+        "record_count": 12800,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Educational Data Record 24",
+        "data_category": "Educational",
+        "record_count": 8003,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Geographic Data Record 25",
+        "data_category": "Geographic",
+        "record_count": 17778,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Financial Data Record 26",
+        "data_category": "Financial",
+        "record_count": 19797,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Firmographic Data Record 27",
+        "data_category": "Firmographic",
+        "record_count": 9040,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Behavioral Data Record 28",
+        "data_category": "Behavioral",
+        "record_count": 16603,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Firmographic Data Record 29",
+        "data_category": "Firmographic",
+        "record_count": 15919,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Technographic Data Record 30",
+        "data_category": "Technographic",
+        "record_count": 15215,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Technographic Data Record 31",
+        "data_category": "Technographic",
+        "record_count": 8066,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Geographic Data Record 32",
+        "data_category": "Geographic",
+        "record_count": 8706,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Demographic Data Record 33",
+        "data_category": "Demographic",
+        "record_count": 6169,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Psychographic Data Record 34",
+        "data_category": "Psychographic",
+        "record_count": 11151,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Behavioral Data Record 35",
+        "data_category": "Behavioral",
+        "record_count": 13878,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Psychographic Data Record 36",
+        "data_category": "Psychographic",
+        "record_count": 12192,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Firmographic Data Record 37",
+        "data_category": "Firmographic",
+        "record_count": 9483,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Firmographic Data Record 38",
+        "data_category": "Firmographic",
+        "record_count": 8169,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Financial Data Record 39",
+        "data_category": "Financial",
+        "record_count": 14568,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Firmographic Data Record 40",
+        "data_category": "Firmographic",
+        "record_count": 5603,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Financial Data Record 41",
+        "data_category": "Financial",
+        "record_count": 6474,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Demographic Data Record 42",
+        "data_category": "Demographic",
+        "record_count": 4828,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Behavioral Data Record 43",
+        "data_category": "Behavioral",
+        "record_count": 18845,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Demographic Data Record 44",
+        "data_category": "Demographic",
+        "record_count": 15150,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Behavioral Data Record 45",
+        "data_category": "Behavioral",
+        "record_count": 15493,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Financial Data Record 46",
+        "data_category": "Financial",
+        "record_count": 12150,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Psychographic Data Record 47",
+        "data_category": "Psychographic",
+        "record_count": 6049,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Firmographic Data Record 48",
+        "data_category": "Firmographic",
+        "record_count": 18510,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Demographic Data Record 49",
+        "data_category": "Demographic",
+        "record_count": 17742,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Educational Data Record 50",
+        "data_category": "Educational",
+        "record_count": 17771,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Firmographic Data Record 51",
+        "data_category": "Firmographic",
+        "record_count": 15337,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 52,
+        "title": "Financial Data Record 52",
+        "data_category": "Financial",
+        "record_count": 5491,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 53,
+        "title": "Educational Data Record 53",
+        "data_category": "Educational",
+        "record_count": 12392,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 54,
+        "title": "Educational Data Record 54",
+        "data_category": "Educational",
+        "record_count": 8213,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Technographic Data Record 55",
+        "data_category": "Technographic",
+        "record_count": 12959,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Psychographic Data Record 56",
+        "data_category": "Psychographic",
+        "record_count": 16793,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Educational Data Record 57",
+        "data_category": "Educational",
+        "record_count": 10053,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Educational Data Record 58",
+        "data_category": "Educational",
+        "record_count": 7857,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Geographic Data Record 59",
+        "data_category": "Geographic",
+        "record_count": 17773,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 60,
+        "title": "Behavioral Data Record 60",
+        "data_category": "Behavioral",
+        "record_count": 15972,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 61,
+        "title": "Educational Data Record 61",
+        "data_category": "Educational",
+        "record_count": 6131,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Financial Data Record 62",
+        "data_category": "Financial",
+        "record_count": 13210,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 63,
+        "title": "Psychographic Data Record 63",
+        "data_category": "Psychographic",
+        "record_count": 3450,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 64,
+        "title": "Technographic Data Record 64",
+        "data_category": "Technographic",
+        "record_count": 11115,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 65,
+        "title": "Technographic Data Record 65",
+        "data_category": "Technographic",
+        "record_count": 5803,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 66,
+        "title": "Technographic Data Record 66",
+        "data_category": "Technographic",
+        "record_count": 13270,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 67,
+        "title": "Psychographic Data Record 67",
+        "data_category": "Psychographic",
+        "record_count": 17481,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 68,
+        "title": "Geographic Data Record 68",
+        "data_category": "Geographic",
+        "record_count": 8924,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 69,
+        "title": "Financial Data Record 69",
+        "data_category": "Financial",
+        "record_count": 12070,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 70,
+        "title": "Financial Data Record 70",
+        "data_category": "Financial",
+        "record_count": 6459,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 71,
+        "title": "Behavioral Data Record 71",
+        "data_category": "Behavioral",
+        "record_count": 10575,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 72,
+        "title": "Psychographic Data Record 72",
+        "data_category": "Psychographic",
+        "record_count": 3629,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Technographic Data Record 73",
+        "data_category": "Technographic",
+        "record_count": 14295,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Psychographic Data Record 74",
+        "data_category": "Psychographic",
+        "record_count": 10235,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Educational Data Record 75",
+        "data_category": "Educational",
+        "record_count": 9816,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Educational Data Record 76",
+        "data_category": "Educational",
+        "record_count": 17195,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 77,
+        "title": "Psychographic Data Record 77",
+        "data_category": "Psychographic",
+        "record_count": 18767,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Educational Data Record 78",
+        "data_category": "Educational",
+        "record_count": 5214,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 79,
+        "title": "Technographic Data Record 79",
+        "data_category": "Technographic",
+        "record_count": 10735,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 80,
+        "title": "Technographic Data Record 80",
+        "data_category": "Technographic",
+        "record_count": 4591,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 81,
+        "title": "Behavioral Data Record 81",
+        "data_category": "Behavioral",
+        "record_count": 15532,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 82,
+        "title": "Educational Data Record 82",
+        "data_category": "Educational",
+        "record_count": 18451,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 83,
+        "title": "Demographic Data Record 83",
+        "data_category": "Demographic",
+        "record_count": 10779,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 84,
+        "title": "Technographic Data Record 84",
+        "data_category": "Technographic",
+        "record_count": 13886,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 85,
+        "title": "Financial Data Record 85",
+        "data_category": "Financial",
+        "record_count": 13910,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 86,
+        "title": "Health Data Record 86",
+        "data_category": "Health",
+        "record_count": 18625,
+        "fields": [
+            "Medical conditions",
+            "Medications",
+            "Allergies",
+            "Physical activity",
+            "Dietary preferences",
+            "Health goals",
+            "Sleep patterns"
+        ]
+    },
+    {
+        "id": 87,
+        "title": "Psychographic Data Record 87",
+        "data_category": "Psychographic",
+        "record_count": 18140,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 88,
+        "title": "Psychographic Data Record 88",
+        "data_category": "Psychographic",
+        "record_count": 5898,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 89,
+        "title": "Geographic Data Record 89",
+        "data_category": "Geographic",
+        "record_count": 19593,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 90,
+        "title": "Behavioral Data Record 90",
+        "data_category": "Behavioral",
+        "record_count": 9786,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 91,
+        "title": "Psychographic Data Record 91",
+        "data_category": "Psychographic",
+        "record_count": 19332,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 92,
+        "title": "Firmographic Data Record 92",
+        "data_category": "Firmographic",
+        "record_count": 1297,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 93,
+        "title": "Geographic Data Record 93",
+        "data_category": "Geographic",
+        "record_count": 17364,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 94,
+        "title": "Technographic Data Record 94",
+        "data_category": "Technographic",
+        "record_count": 14842,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 95,
+        "title": "Technographic Data Record 95",
+        "data_category": "Technographic",
+        "record_count": 8689,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 96,
+        "title": "Technographic Data Record 96",
+        "data_category": "Technographic",
+        "record_count": 8761,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 97,
+        "title": "Firmographic Data Record 97",
+        "data_category": "Firmographic",
+        "record_count": 14227,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 98,
+        "title": "Psychographic Data Record 98",
+        "data_category": "Psychographic",
+        "record_count": 3119,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 99,
+        "title": "Firmographic Data Record 99",
+        "data_category": "Firmographic",
+        "record_count": 18941,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 100,
+        "title": "Demographic Data Record 100",
+        "data_category": "Demographic",
+        "record_count": 5732,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 101,
+        "title": "Educational Data Record 101",
+        "data_category": "Educational",
+        "record_count": 9186,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 102,
+        "title": "Demographic Data Record 102",
+        "data_category": "Demographic",
+        "record_count": 19253,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 103,
+        "title": "Firmographic Data Record 103",
+        "data_category": "Firmographic",
+        "record_count": 11823,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 104,
+        "title": "Firmographic Data Record 104",
+        "data_category": "Firmographic",
+        "record_count": 17537,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 105,
+        "title": "Health Data Record 105",
+        "data_category": "Health",
+        "record_count": 12336,
+        "fields": [
+            "Medical conditions",
+            "Medications",
+            "Allergies",
+            "Physical activity",
+            "Dietary preferences",
+            "Health goals",
+            "Sleep patterns"
+        ]
+    },
+    {
+        "id": 106,
+        "title": "Educational Data Record 106",
+        "data_category": "Educational",
+        "record_count": 9523,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 107,
+        "title": "Geographic Data Record 107",
+        "data_category": "Geographic",
+        "record_count": 19209,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 108,
+        "title": "Firmographic Data Record 108",
+        "data_category": "Firmographic",
+        "record_count": 13327,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 109,
+        "title": "Behavioral Data Record 109",
+        "data_category": "Behavioral",
+        "record_count": 18142,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 110,
+        "title": "Technographic Data Record 110",
+        "data_category": "Technographic",
+        "record_count": 17764,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 111,
+        "title": "Demographic Data Record 111",
+        "data_category": "Demographic",
+        "record_count": 17299,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 112,
+        "title": "Demographic Data Record 112",
+        "data_category": "Demographic",
+        "record_count": 11502,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 113,
+        "title": "Educational Data Record 113",
+        "data_category": "Educational",
+        "record_count": 16120,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 114,
+        "title": "Psychographic Data Record 114",
+        "data_category": "Psychographic",
+        "record_count": 14338,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 115,
+        "title": "Technographic Data Record 115",
+        "data_category": "Technographic",
+        "record_count": 18906,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 116,
+        "title": "Demographic Data Record 116",
+        "data_category": "Demographic",
+        "record_count": 12848,
+        "fields": [
+            "Name",
+            "Age",
+            "Gender",
+            "Occupation",
+            "Marital status",
+            "Education level",
+            "Income"
+        ]
+    },
+    {
+        "id": 117,
+        "title": "Psychographic Data Record 117",
+        "data_category": "Psychographic",
+        "record_count": 3000,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 118,
+        "title": "Psychographic Data Record 118",
+        "data_category": "Psychographic",
+        "record_count": 2785,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 119,
+        "title": "Geographic Data Record 119",
+        "data_category": "Geographic",
+        "record_count": 3756,
+        "fields": [
+            "Country",
+            "State",
+            "City",
+            "Postal code",
+            "Latitude",
+            "Longitude",
+            "Time zone",
+            "Climate zone"
+        ]
+    },
+    {
+        "id": 120,
+        "title": "Financial Data Record 120",
+        "data_category": "Financial",
+        "record_count": 5662,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 121,
+        "title": "Financial Data Record 121",
+        "data_category": "Financial",
+        "record_count": 18103,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 122,
+        "title": "Firmographic Data Record 122",
+        "data_category": "Firmographic",
+        "record_count": 4693,
+        "fields": [
+            "Company name",
+            "Company address",
+            "Website",
+            "Industry",
+            "Revenue",
+            "Number of employees",
+            "Year founded"
+        ]
+    },
+    {
+        "id": 123,
+        "title": "Technographic Data Record 123",
+        "data_category": "Technographic",
+        "record_count": 3739,
+        "fields": [
+            "Device type",
+            "Operating system",
+            "Browser",
+            "Internet connection",
+            "Device brand",
+            "App usage"
+        ]
+    },
+    {
+        "id": 124,
+        "title": "Educational Data Record 124",
+        "data_category": "Educational",
+        "record_count": 4725,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 125,
+        "title": "Behavioral Data Record 125",
+        "data_category": "Behavioral",
+        "record_count": 8401,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 126,
+        "title": "Psychographic Data Record 126",
+        "data_category": "Psychographic",
+        "record_count": 11505,
+        "fields": [
+            "Personality",
+            "Interests",
+            "Values",
+            "Lifestyle",
+            "Hobbies",
+            "Political affiliation",
+            "Religious beliefs"
+        ]
+    },
+    {
+        "id": 127,
+        "title": "Financial Data Record 127",
+        "data_category": "Financial",
+        "record_count": 17453,
+        "fields": [
+            "Bank account type",
+            "Credit score",
+            "Annual income",
+            "Debt-to-income ratio",
+            "Investment portfolio",
+            "Spending habits",
+            "Savings rate"
+        ]
+    },
+    {
+        "id": 128,
+        "title": "Educational Data Record 128",
+        "data_category": "Educational",
+        "record_count": 17336,
+        "fields": [
+            "Highest degree attained",
+            "Field of study",
+            "Institution name",
+            "Graduation year",
+            "GPA",
+            "Certifications",
+            "Languages spoken"
+        ]
+    },
+    {
+        "id": 129,
+        "title": "Behavioral Data Record 129",
+        "data_category": "Behavioral",
+        "record_count": 14521,
+        "fields": [
+            "Purchase history",
+            "Browsing behavior",
+            "Time spent on site",
+            "Click-through rate",
+            "Preferred payment method",
+            "Last login time"
+        ]
+    },
+    {
+        "id": 130,
+        "title": "Health Data Record 130",
+        "data_category": "Health",
+        "record_count": 8261,
+        "fields": [
+            "Medical conditions",
+            "Medications",
+            "Allergies",
+            "Physical activity",
+            "Dietary preferences",
+            "Health goals",
+            "Sleep patterns"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+{
+	"name": "icustomer-backend",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"dev": "bun run --hot index.js",
+		"start": "bun run index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"dotenv": "^16.4.5",
+		"express": "^4.19.2",
+		"helmet": "^7.1.0",
+		"http-status-codes": "^2.3.0",
+		"jsonwebtoken": "^9.0.2",
+		"mongoose": "^8.5.3",
+		"mongoose-sequence": "^6.0.1",
+		"zod": "^3.23.8"
+	},
+	"devDependencies": {}
+}
