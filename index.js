@@ -6,13 +6,19 @@ const productsRoute = require('./src/routes/products.routes');
 const { handleError } = require('./src/utils/errorHandler');
 const connectDB = require('./src/config/mongoDb');
 const app = express();
-const cors = require("cors")
+const cors = require('cors');
 connectDB();
 app.use(express.urlencoded({ extended: false }));
 
-
 // Middleware
-app.use(cors({ credentials: true }));
+
+const corsOptions = {
+	origin: process.env.FRONTEND_URL,
+	methods: ['GET', 'POST', 'PUT', 'DELETE'],
+	credentials: true,
+};
+
+app.use(cors(corsOptions));
 app.use(helmet());
 app.use(express.json());
 
@@ -20,7 +26,7 @@ app.use(express.json());
 app.use('/v1/user', userRoute);
 app.use('/v1/products', productsRoute);
 app.get('/', (_, res) => {
-    return res.status(200).send({ message: 'Hello World', data: {} });
+	return res.status(200).send({ message: 'Hello World', data: {} });
 });
 app.use(handleError);
 
